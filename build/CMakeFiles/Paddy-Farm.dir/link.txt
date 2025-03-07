@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Paddy-Farm.dir/src/main.cpp.o CMakeFiles/Paddy-Farm.dir/src/glad.c.o CMakeFiles/Paddy-Farm.dir/src/shaderProgram.cpp.o -o Paddy-Farm   -L/usr/lib/gcc/x86_64-linux-gnu/12  -lglfw /usr/lib/x86_64-linux-gnu/libGLX.so /usr/lib/x86_64-linux-gnu/libOpenGL.so 

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/handdev/Desktop/Project/Paddy Farm/build",
+  "command": "/usr/bin/c++  -I\"/home/handdev/Desktop/Project/Paddy Farm/include\" -g -std=gnu++20 -o CMakeFiles/Paddy-Farm.dir/src/main.cpp.o -c \"/home/handdev/Desktop/Project/Paddy Farm/src/main.cpp\"",
+  "file": "/home/handdev/Desktop/Project/Paddy Farm/src/main.cpp"
+},
+{
+  "directory": "/home/handdev/Desktop/Project/Paddy Farm/build",
+  "command": "/usr/bin/gcc-12  -I\"/home/handdev/Desktop/Project/Paddy Farm/include\" -g -o CMakeFiles/Paddy-Farm.dir/src/glad.c.o -c \"/home/handdev/Desktop/Project/Paddy Farm/src/glad.c\"",
+  "file": "/home/handdev/Desktop/Project/Paddy Farm/src/glad.c"
+},
+{
+  "directory": "/home/handdev/Desktop/Project/Paddy Farm/build",
+  "command": "/usr/bin/c++  -I\"/home/handdev/Desktop/Project/Paddy Farm/include\" -g -std=gnu++20 -o CMakeFiles/Paddy-Farm.dir/src/shaderProgram.cpp.o -c \"/home/handdev/Desktop/Project/Paddy Farm/src/shaderProgram.cpp\"",
+  "file": "/home/handdev/Desktop/Project/Paddy Farm/src/shaderProgram.cpp"
+}
+]

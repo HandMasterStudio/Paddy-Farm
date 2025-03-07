@@ -1,0 +1,3 @@
+/home/handdev/Desktop/Project/Paddy Farm/build/CMakeFiles/Paddy-Farm.dir
+/home/handdev/Desktop/Project/Paddy Farm/build/CMakeFiles/edit_cache.dir
+/home/handdev/Desktop/Project/Paddy Farm/build/CMakeFiles/rebuild_cache.dir
