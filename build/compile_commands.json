@@ -13,5 +13,10 @@
   "directory": "/home/handdev/Desktop/Project/Paddy Farm/build",
   "command": "/usr/bin/c++  -I\"/home/handdev/Desktop/Project/Paddy Farm/include\" -g -std=gnu++20 -o CMakeFiles/Paddy-Farm.dir/src/shaderProgram.cpp.o -c \"/home/handdev/Desktop/Project/Paddy Farm/src/shaderProgram.cpp\"",
   "file": "/home/handdev/Desktop/Project/Paddy Farm/src/shaderProgram.cpp"
+},
+{
+  "directory": "/home/handdev/Desktop/Project/Paddy Farm/build",
+  "command": "/usr/bin/c++  -I\"/home/handdev/Desktop/Project/Paddy Farm/include\" -g -std=gnu++20 -o CMakeFiles/Paddy-Farm.dir/src/stb_image.cpp.o -c \"/home/handdev/Desktop/Project/Paddy Farm/src/stb_image.cpp\"",
+  "file": "/home/handdev/Desktop/Project/Paddy Farm/src/stb_image.cpp"
 }
 ]

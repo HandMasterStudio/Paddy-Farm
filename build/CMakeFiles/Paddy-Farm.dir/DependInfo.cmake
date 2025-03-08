@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/handdev/Desktop/Project/Paddy Farm/src/glad.c" "CMakeFiles/Paddy-Farm.dir/src/glad.c.o" "gcc" "CMakeFiles/Paddy-Farm.dir/src/glad.c.o.d"
   "/home/handdev/Desktop/Project/Paddy Farm/src/main.cpp" "CMakeFiles/Paddy-Farm.dir/src/main.cpp.o" "gcc" "CMakeFiles/Paddy-Farm.dir/src/main.cpp.o.d"
   "/home/handdev/Desktop/Project/Paddy Farm/src/shaderProgram.cpp" "CMakeFiles/Paddy-Farm.dir/src/shaderProgram.cpp.o" "gcc" "CMakeFiles/Paddy-Farm.dir/src/shaderProgram.cpp.o.d"
+  "/home/handdev/Desktop/Project/Paddy Farm/src/stb_image.cpp" "CMakeFiles/Paddy-Farm.dir/src/stb_image.cpp.o" "gcc" "CMakeFiles/Paddy-Farm.dir/src/stb_image.cpp.o.d"
   )
 
 # Targets to which this target links.

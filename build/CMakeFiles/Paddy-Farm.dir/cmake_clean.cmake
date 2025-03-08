@@ -5,6 +5,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Paddy-Farm.dir/src/main.cpp.o.d"
   "CMakeFiles/Paddy-Farm.dir/src/shaderProgram.cpp.o"
   "CMakeFiles/Paddy-Farm.dir/src/shaderProgram.cpp.o.d"
+  "CMakeFiles/Paddy-Farm.dir/src/stb_image.cpp.o"
+  "CMakeFiles/Paddy-Farm.dir/src/stb_image.cpp.o.d"
   "Paddy-Farm"
   "Paddy-Farm.pdb"
 )

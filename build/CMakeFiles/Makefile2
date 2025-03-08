@@ -81,12 +81,12 @@ clean: CMakeFiles/Paddy-Farm.dir/clean
 CMakeFiles/Paddy-Farm.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Paddy-Farm.dir/build.make CMakeFiles/Paddy-Farm.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Paddy-Farm.dir/build.make CMakeFiles/Paddy-Farm.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/handdev/Desktop/Project/Paddy Farm/build/CMakeFiles" --progress-num=1,2,3,4 "Built target Paddy-Farm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/home/handdev/Desktop/Project/Paddy Farm/build/CMakeFiles" --progress-num=1,2,3,4,5 "Built target Paddy-Farm"
 .PHONY : CMakeFiles/Paddy-Farm.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Paddy-Farm.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/handdev/Desktop/Project/Paddy Farm/build/CMakeFiles" 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "/home/handdev/Desktop/Project/Paddy Farm/build/CMakeFiles" 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Paddy-Farm.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "/home/handdev/Desktop/Project/Paddy Farm/build/CMakeFiles" 0
 .PHONY : CMakeFiles/Paddy-Farm.dir/rule

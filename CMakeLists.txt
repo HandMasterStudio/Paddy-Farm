@@ -10,6 +10,7 @@ add_executable(${PROJECT_NAME}
 src/main.cpp
 src/glad.c
 src/shaderProgram.cpp
+src/stb_image.cpp
 )   
 
 target_link_libraries(${PROJECT_NAME} glfw OpenGL::GL)
