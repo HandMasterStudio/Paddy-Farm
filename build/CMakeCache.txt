@@ -14,6 +14,9 @@
 # EXTERNAL cache entries
 ########################
 
+//The directory containing a CMake configuration file for Assimp.
+Assimp_DIR:PATH=Assimp_DIR-NOTFOUND
+
 //Path to a program.
 CMAKE_ADDR2LINE:FILEPATH=/usr/bin/addr2line
 
@@ -243,6 +246,15 @@ Paddy-Farm_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 Paddy-Farm_SOURCE_DIR:STATIC=/home/handdev/Desktop/Project/Paddy Farm
+
+//The directory containing a CMake configuration file for assimp.
+assimp_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/assimp-5.2
+
+//The directory containing a CMake configuration file for draco.
+draco_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/draco
+
+//The directory containing a CMake configuration file for ssimp.
+ssimp_DIR:PATH=ssimp_DIR-NOTFOUND
 
 
 ########################

@@ -3,6 +3,7 @@ project(Paddy-Farm)
 
 set(CMAKE_CXX_STANDARD 20)
 find_package(OpenGL REQUIRED)
+find_package(assimp REQUIRED)
 
 include_directories(include)
 
@@ -13,4 +14,4 @@ src/shaderProgram.cpp
 src/stb_image.cpp
 )   
 
-target_link_libraries(${PROJECT_NAME} glfw OpenGL::GL)
+target_link_libraries(${PROJECT_NAME} glfw assimp OpenGL::GL)
